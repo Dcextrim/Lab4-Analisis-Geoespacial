@@ -1,0 +1,7 @@
+{
+  "backend": "https://openeo.dataspace.copernicus.eu",
+  "coleccion": "SENTINEL2_L1C",
+  "estado": "conexión pública correcta",
+  "bandas_requeridas": "B02, B03, B04, B05, B07, B08, B8A, B11, B12",
+  "fuente_evidencia": "consulta en línea"
+}

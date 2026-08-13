@@ -1,0 +1,9 @@
+numpy>=2.2
+pandas>=2.2
+matplotlib>=3.10
+openeo>=0.45
+rasterio>=1.4
+nbformat>=5.10
+nbconvert>=7.16
+ipykernel>=6.29
+
