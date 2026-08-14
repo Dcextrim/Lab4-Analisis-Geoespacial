@@ -1,0 +1,9 @@
+lago,lago_id,nivel,variable,n,pearson_r,spearman_rho
+Amatitlán,amatitlan,promedios temporales,NDVI,11,0.7466705638002092,0.8090909090909091
+Amatitlán,amatitlan,píxeles muestreados,NDVI,55000,0.7711926119421313,0.6672824429635508
+Amatitlán,amatitlan,promedios temporales,NDWI,11,-0.3533384873267349,-0.23636363636363636
+Amatitlán,amatitlan,píxeles muestreados,NDWI,55000,-0.6413393597851296,-0.49027659397568774
+Atitlán,atitlan,promedios temporales,NDVI,11,0.8922423115600296,0.9363636363636365
+Atitlán,atitlan,píxeles muestreados,NDVI,55000,0.7812274217475207,0.7554398096479642
+Atitlán,atitlan,promedios temporales,NDWI,11,-0.9537107775408227,-0.9636363636363637
+Atitlán,atitlan,píxeles muestreados,NDWI,55000,-0.7956931278497182,-0.7677349800264506
