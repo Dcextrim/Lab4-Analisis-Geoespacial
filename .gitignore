@@ -1,6 +1,2 @@
-.ipynb_checkpoints/
-__pycache__/
-data/raw/
-data/processed/
-results/*.tif
-
+/Lab4.1/data/
+/Lab4.2/data/
