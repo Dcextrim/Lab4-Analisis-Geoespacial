@@ -66,9 +66,9 @@ El MSI de Sentinel-2 observa 13 bandas entre el visible, NIR y SWIR. Los product
 
 **B04** (~665 nm) coincide con una región de absorción fuerte de clorofila-a; **B05** (~705 nm) captura el incremento de reflectancia del borde rojo que se intensifica en aguas productivas. Su contraste forma NDCI, razón por la cual son físicamente informativas pero estadísticamente inadmisibles como predictores de esta etiqueta. **NDVI**, `(B08-B04)/(B08+B04)`, fue diseñado para vegetación verde: la clorofila absorbe rojo y la estructura foliar refleja NIR. Sobre agua, valores elevados pueden indicar vegetación flotante, biomasa superficial o mezcla costera. Se visualiza como control de calidad, pero se excluye por compartir B04 con la etiqueta.
 
-## 6. Limitaciones y trabajo siguiente
+## 6. Limitaciones
 
-El conjunto usa reflectancia de nivel L1C y una máscara de nubes heurística. La corrección atmosférica específica para aguas interiores, la detección de brillo solar y una máscara de litoral vectorial mejorarían la calidad. Además, el índice de clorofila proviene de datos simulados y no fue calibrado con muestras simultáneas de Atitlán y Amatitlán. El siguiente avance debe incorporar validación espacial/temporal, análisis de sensibilidad del umbral y, cuando existan, mediciones in situ. Ningún resultado del modelo debe presentarse como alerta de salud pública sin esa validación.
+El conjunto usa reflectancia de nivel L1C y una máscara de nubes heurística. La corrección atmosférica específica para aguas interiores, la detección de brillo solar y una máscara de litoral vectorial mejorarían la calidad. Además, el índice de clorofila proviene de datos simulados y no fue calibrado con muestras simultáneas de Atitlán y Amatitlán.
 
 ## Referencias
 
